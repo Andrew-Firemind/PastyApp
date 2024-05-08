@@ -1,0 +1,2 @@
+# PastyApp
+App about pasties
